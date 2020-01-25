@@ -1,0 +1,4 @@
+﻿  hayvanlar.cpp
+c:\users\mbara\desktop\üniversite\bitirmedemo\bitirme\bitirme\hayvanlar.cpp(257): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\mbara\desktop\üniversite\bitirmedemo\bitirme\bitirme\hayvanlar.cpp(259): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  Bitirme.vcxproj -> C:\Users\mbara\Desktop\Üniversite\BitirmeDemo\Bitirme\x64\Debug\Bitirme.exe
